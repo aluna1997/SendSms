@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendSms</string>
+    <string name="selectionButton">Seleccionar Contacto</string>
+    <string name="sendButton">Enviar</string>
+</resources>
